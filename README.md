@@ -29,4 +29,7 @@ View Inventory
 ![2019-04-19 (3)](https://user-images.githubusercontent.com/46499915/56408360-1a4b0b00-6242-11e9-97a3-511aa3484439.png)
 View Low Inventory (Units less than 5)
 ![2019-04-19 (4)](https://user-images.githubusercontent.com/46499915/56408383-4070ab00-6242-11e9-8e11-27c354ed0075.png)
+Add to Inventory
+![2019-04-19 (5)](https://user-images.githubusercontent.com/46499915/56408421-6ac26880-6242-11e9-8514-9b45ef04e249.png)
+
 
