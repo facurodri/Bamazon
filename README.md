@@ -24,3 +24,6 @@ Manager View has more flexibility, you can do 4 modes
 * View Low Inventory (items lower than 5)
 * Add to Inventory
 * Add New Product
+
+View Inventory
+![2019-04-19 (3)](https://user-images.githubusercontent.com/46499915/56408360-1a4b0b00-6242-11e9-97a3-511aa3484439.png)
